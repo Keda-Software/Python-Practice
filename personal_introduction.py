@@ -18,5 +18,9 @@ university = input("Please enter your university: ")
 department = input("Please enter your department: ")
 favorite_language = input("Please enter your favorite programming language: ")
 programming_goal = input("Please enter your one programming goal: ")
+print("=" * 30)
+print("\n--- Personal Introduction ---\n")
+print("=" * 30)
 
 print(f"Hello, my name is {Full_name}. I am {age} years old and live in {city}. I am a student at {university} in the {department} department. My favorite programming language is {favorite_language}, and my programming goal is to {programming_goal}.")
+
